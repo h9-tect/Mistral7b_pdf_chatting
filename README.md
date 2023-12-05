@@ -4,7 +4,7 @@
 **Mistral 7B** is a state-of-the-art language model developed by the Mistral AI team.
 ### Updates :
 - solve cannot import name 'LangchainEmbedding' issue.
-- build simple gui
+- build simple gui to chat with model
 - using metadate fun to display source of response 
 ## Key Features
 
