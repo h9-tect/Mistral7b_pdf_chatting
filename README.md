@@ -1,5 +1,5 @@
 # Mistral 7B Overview 
-[![Open In Colab](https://github.com/elkhayyat17/Mistral7b_pdf_chatting/blob/main/Chat_with_papers_Mistral_7b.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/elkhayyat17/Mistral7b_pdf_chatting/blob/main/Chat_with_papers_Mistral_7b.ipynb)
 
 **Mistral 7B** is a state-of-the-art language model developed by the Mistral AI team.
 ### Updates :
