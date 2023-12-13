@@ -1,8 +1,13 @@
-# Mistral 7B Overview
+# Mistral 7B Overview 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/elkhayyat17/Mistral7b_pdf_chatting/blob/main/Chat_with_papers_Mistral_7b.ipynb)
 
 **Mistral 7B** is a state-of-the-art language model developed by the Mistral AI team.
-
+### Updates :
+- solve cannot import name 'LangchainEmbedding' issue.
+- build simple gui to chat with model
+- using metadate fun to display source of response 
 ## Key Features
+
 
 - **Size:** 7.3B parameters.
 - **Performance:** Outperforms Llama 2 13B across all benchmarks and surpasses Llama 1 34B in many.
